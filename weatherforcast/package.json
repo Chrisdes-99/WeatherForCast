@@ -1,5 +1,6 @@
 {
   "name": "weatherforcast",
+  "homepage": "https://Chrisdes-99.github.io/WeatherForcast/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
